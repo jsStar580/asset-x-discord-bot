@@ -1,0 +1,16 @@
+{
+  "name": "asset-x-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Asset X Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "nodemon": "^3.1.0"
+  }
+}
