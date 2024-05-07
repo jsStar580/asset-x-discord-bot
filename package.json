@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.14.1",
+    "canvas": "^2.11.2",
+    "discord.js": "^14.15.2",
+    "discord.js-captcha": "^3.0.8",
     "nodemon": "^3.1.0"
   }
 }
